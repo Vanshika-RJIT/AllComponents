@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AllComponents</string>
+    <string name="time">Time</string>
+    <string name="start">Start</string>
+    <string name="submit">Submit</string>
+    <string name="pause">Pause</string>
+    <string name="go_to_camera">Go To Camera</string>
+    <string name="audio_recording">Audio Recording</string>
+    <string name="video_recording">Video Recording</string>
+</resources>
